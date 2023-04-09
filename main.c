@@ -31,7 +31,8 @@ typedef enum {
      NUM_REGISTERS
 } Registers;
 
-int registers[NUM_REGISTERS];
+
+
 
 //fairly simple - will just add 2 and 4, pop them from the stack and HLT will quit the program
 const int program[] = {

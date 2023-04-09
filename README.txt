@@ -1,0 +1,1 @@
+Very minimal implementation of a virtual machine in C. It is a stack based machine with a few instructions. It is not meant to be used for anything serious, just for fun. Feel free to extend it. 
